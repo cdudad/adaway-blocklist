@@ -1,5 +1,5 @@
 # Title: AdAway BlockList by dallas.djud
-# Last modified: 05 Jul 2026 13:21 UTC
+# Last modified: 05 Jul 2026 13:25 UTC
 # Statistics:
 #   - Unique rules (lines): 147324
 #
