@@ -1,5 +1,6 @@
 # Title: AdAway BlockList by dallas.djud
-# Last modified: 05 Jul 2026 13:34 UTC
+# Source: Hagezi Adblok Pro Mini; AdAway default blocklist; Peter Lowe Adservers Blocklist; StevenBlack hosts Blocklist
+# Last modified: 05 Jul 2026 13:36 UTC
 # Statistics:
 #   - Unique rules (lines): 147324
 #
