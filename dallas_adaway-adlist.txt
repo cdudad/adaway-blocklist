@@ -1,8 +1,8 @@
 # Title: AdAway BlockList by dallas.djud
 # Source: Hagezi AdblockProMini; AdAway DefaultBlocklist; Peter Lowe AdserversBlocklist; StevenBlack HostsBlocklist
-# Last modified: 05 Jul 2026 14:28 UTC
+# Last modified: 05 Jul 2026 14:29 UTC
 # Statistics:
-#   - Unique rules (lines): 147310
+#   - Unique rules (lines): 147324
 #
 0.0.0.0 0-0-0checkmate.com
 0.0.0.0 0.0-02.net
@@ -22633,6 +22633,7 @@
 0.0.0.0 api.e.reiss.com
 0.0.0.0 api.e1.nextdirect.com
 0.0.0.0 api.eagllwin.com
+0.0.0.0 api.engager.ecbsn.com
 0.0.0.0 api.ent.mobileanjian.com
 0.0.0.0 api.eqmob.com
 0.0.0.0 api.ero-advertising.com
@@ -22985,6 +22986,7 @@
 0.0.0.0 apitiny.net
 0.0.0.0 apitm.toolmatrix.plus
 0.0.0.0 apitongcantref.cfd
+0.0.0.0 apituner.ecbsn.com
 0.0.0.0 apiv2.indidata.com
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 apiv2.tiin.vn
@@ -24332,6 +24334,7 @@
 0.0.0.0 assetrecover.click
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 assets-momentum.akamaized.net
+0.0.0.0 assets-secure.applicaster.com
 0.0.0.0 assets-v2.yieldify-production.com
 0.0.0.0 assets-v2.yieldify.com
 0.0.0.0 assets.abbi.io
@@ -39458,6 +39461,7 @@
 0.0.0.0 customer-feedbacks.web.roku.com
 0.0.0.0 customer-portal.info
 0.0.0.0 customer-trezor.com
+0.0.0.0 customer.cludo.com
 0.0.0.0 customer.guru
 0.0.0.0 customer.iad-03.braze.com
 0.0.0.0 customerevents.dradis.netflix.com
@@ -49382,6 +49386,7 @@
 0.0.0.0 fc.3dmgame.com
 0.0.0.0 fc.itmedia.co.jp
 0.0.0.0 fc.webmasterpro.de
+0.0.0.0 fc.yahoo.com
 0.0.0.0 fc138139fe4e45bd.com
 0.0.0.0 fc29887733.online
 0.0.0.0 fc29887733.shop
@@ -49790,6 +49795,7 @@
 0.0.0.0 ffbdc1fbcfaddc02.com
 0.0.0.0 ffc0fffd8f8d5cee.com
 0.0.0.0 ffch.rp8trq.qpon
+0.0.0.0 ffconf.ecbsn.com
 0.0.0.0 ffdd3d55b4.top
 0.0.0.0 ffe390afd658c19dcbf707e0597b846d.de
 0.0.0.0 ffesm.fr
@@ -71598,6 +71604,7 @@
 0.0.0.0 mdznads.com
 0.0.0.0 me-cam-pixel-tracker-prod.azure-api.net
 0.0.0.0 me-cdn.effectivemeasure.net
+0.0.0.0 me-client.eservice.emarsys.net
 0.0.0.0 me-device-event-api-glb.gservice.emarsys.net
 0.0.0.0 me-page.com
 0.0.0.0 me-ssl.effectivemeasure.net
@@ -73803,6 +73810,7 @@
 0.0.0.0 mobile-http-intake.logs.datadoghq.eu
 0.0.0.0 mobile-log-huk-prod.cmtelematics.com
 0.0.0.0 mobile-production.content-square.net
+0.0.0.0 mobile-sdk-config.gservice.emarsys.net
 0.0.0.0 mobile-sdk-resources.jumio.com
 0.0.0.0 mobile-sentry.noon.team
 0.0.0.0 mobile-service.segment.com
@@ -86377,6 +86385,7 @@
 0.0.0.0 productdownload.pro
 0.0.0.0 production-adkviewtrackingtagserver.ap-northeast-1.elasticbeanstalk.com
 0.0.0.0 production-cdn.lift.acquia.com
+0.0.0.0 production-cmp.isgprivacy.cbsi.com
 0.0.0.0 production-tracking.riviu.co
 0.0.0.0 production.wootric.com
 0.0.0.0 production.wootric.com.herokudns.com
@@ -88841,6 +88850,7 @@
 0.0.0.0 r.mail.163.com
 0.0.0.0 r.marketing.dubaisothebys.com
 0.0.0.0 r.moshimo.com
+0.0.0.0 r.mradx.net
 0.0.0.0 r.msn.com
 0.0.0.0 r.my.com
 0.0.0.0 r.openx.net
@@ -94176,10 +94186,12 @@
 0.0.0.0 sdk.pulse.schibsted.com
 0.0.0.0 sdk.push.mob.com
 0.0.0.0 sdk.pushdi.com
+0.0.0.0 sdk.qikify.com
 0.0.0.0 sdk.resu.io
 0.0.0.0 sdk.rfunbox.com
 0.0.0.0 sdk.scopely.io
 0.0.0.0 sdk.sharethrough.com
+0.0.0.0 sdk.split.io
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.stat.foreign.nearme.com.cn
 0.0.0.0 sdk.streamrail.com
@@ -97046,6 +97058,7 @@
 0.0.0.0 sitecorenet.site
 0.0.0.0 sitedataprocessing.com
 0.0.0.0 sitedegor.xyz
+0.0.0.0 sitegenesis.production.deckers.coremedia.cloud
 0.0.0.0 sitegiant.info
 0.0.0.0 siteimprove.com
 0.0.0.0 siteimproveanalytics.com
@@ -138529,6 +138542,7 @@
 0.0.0.0 www.tao123.com
 0.0.0.0 www.tapair.com
 0.0.0.0 www.tappatarsi.cyou
+0.0.0.0 www.tapresearch.com
 0.0.0.0 www.taqidaexu.autos
 0.0.0.0 www.tarafsec.com
 0.0.0.0 www.tarandka.com
