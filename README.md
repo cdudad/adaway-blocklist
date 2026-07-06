@@ -1,2 +1,2 @@
 # adaway-blocklist
-Blocklist for Adaway by dallas.djud
+DNS blocklist by dallas.djud
